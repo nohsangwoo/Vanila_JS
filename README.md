@@ -1,3 +1,3 @@
 # Vanila_JS
 
-ver.1
+Javascript 연습
